@@ -27,3 +27,10 @@ Reinstalling, updating, or uninstalling the application preserves those folders.
 Use **File > Check for Updates** in installed versions with the update checker. Updates use the official full Windows installer and verify SHA-256 before installation.
 
 This repository contains public release information and distribution artifacts only.
+
+## Support PrestonEngine
+
+If you've tried PrestonEngine and would like to support its development,
+you can [buy me a coffee](https://buymeacoffee.com/prestonengine).
+
+Support is completely optional. Thank you for supporting PrestonEngine!
